@@ -1,0 +1,3 @@
+UPDATE Aluno SET status = 'Ativo' WHERE id_aluno = 3;
+UPDATE Pagamento SET status_pagamento = 'Atrasado' WHERE id_pagamento = 2;
+...
