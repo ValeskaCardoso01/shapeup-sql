@@ -1,0 +1,3 @@
+DELETE FROM Treino_Exercicio WHERE id_treino = 2 AND id_exercicio = 3;
+DELETE FROM Pagamento WHERE id_pagamento = 2;
+...
